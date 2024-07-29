@@ -1,2 +1,2 @@
-# korea_travel
-Travel guide for main Lëtzebuerger Famill
+# Korean travel guide
+Travel guide fir meng Lëtzebuerger Famill
