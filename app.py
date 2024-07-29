@@ -28,7 +28,7 @@ for idx, row in travel_data.iterrows():
     popup_text = f"""
     <div style='width: 300px;'>
     <b>{row['Location']}</b><br>
-    English: {row['Contents']}<br>
+    English: {row['Contents']} ({row['Type']})<br>
     Korean: {row['Contents (Korean)']}<br>
     <a href="{row['URL']}" target="_blank">More info</a>
     """
